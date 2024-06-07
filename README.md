@@ -9,3 +9,7 @@
 ## Props
 
 - For props see the App.js file
+
+## Dependancies
+
+- ```npm install @mui/icons-material @mui/material @emotion/styled @emotion/react```
