@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Scope+One&display=swap");
+.App__para p {
+  margin: 0;
+  text-align: justify;
+  line-height: 1.8;
+  font-family: "Scope One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.App__para {
+  padding-block: 30px;
+  padding-inline: 10px;
+}
+
+.App__theme {
+  display: flex;
+  justify-content: flex-end;
+  padding-inline: 20px;
+  padding-block: 10px;
+}

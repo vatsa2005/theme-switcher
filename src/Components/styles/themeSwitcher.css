@@ -1,0 +1,32 @@
+.theme_switcher {
+  height: fit-content;
+  width: fit-content;
+}
+
+.theme_swithcer__dark_theme:hover,
+.theme_swithcer__light_theme:hover {
+  cursor: pointer;
+}
+
+.animate {
+  animation: appear 1s ease-in-out;
+}
+
+.light_theme {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark_theme {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
