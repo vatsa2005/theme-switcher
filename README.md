@@ -1,6 +1,6 @@
 # Theme Switcher
 
-- Switch between Dark and Light themes.
+- React component to Switch between Dark and Light themes.
 
 ## Styling for Dark and Light themes
 
